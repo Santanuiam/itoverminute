@@ -1,0 +1,12 @@
+site_name: My IT Knowledge Base
+
+nav:
+  - Home: index.md
+  - OpenShift Training: openshift.md
+  - Red Hat Troubleshooting: redhat.md
+  - Windows Server Troubleshooting: windows.md
+  - Linux Server Troubleshooting: linux.md
+  - Automation: automation.md
+
+theme:
+  name: material
